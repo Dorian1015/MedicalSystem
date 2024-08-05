@@ -2,22 +2,22 @@
 
 <p align="center">
  	<a href="https://github.com/lijinghai/MedicalSystem">
-		<img src="https://img.shields.io/github/issues/Dorian1015/MedicalSystem"
+		<img src="https://img.shields.io/github/issues/lijinghai/MedicalSystem"
 			 alt="Version">
 	</a>
- 	<a href="https://github.com/Dorian1015/MedicalSystem">
-		<img src="https://img.shields.io/github/forks/Dorian1015/MedicalSystem"
+ 	<a href="https://github.com/lijinghai/MedicalSystem">
+		<img src="https://img.shields.io/github/forks/lijinghai/MedicalSystem"
 			 alt="Status">
 	</a>
-    <a href="https://github.com/Dorian1015/MedicalSystem">
-		<img src="https://img.shields.io/github/stars/Dorian1015/MedicalSystem"
+    <a href="https://github.com/lijinghai/MedicalSystem">
+		<img src="https://img.shields.io/github/stars/lijinghai/MedicalSystem"
 			 alt="Status">
 	</a>
 </p>
 
 <p align="center">
-     <a href="https://github.com/Dorian1015/MedicalSystem">
-		<img src="https://img.shields.io/badge/Dorian-%E6%B5%B7-blue"
+     <a href="https://github.com/lijinghai/MedicalSystem">
+		<img src="https://img.shields.io/badge/lijinghai-%E6%B5%B7-blue"
 			 alt="Status">
 	</a>
 </p>
